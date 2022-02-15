@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caramel&family=Fjalla+One&display=swap');
+body {
+    background-color: rgb(238, 119, 169);
+    color: rgb(255, 255, 255);
+}
+.pealkiri{
+    color: rgb(0, 0, 0);
+    font-family: 'Caramel', cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.koostisosad {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.koostisosade-tabel {
+    margin: 0 auto;
+}
+
+.valmistamine{
+    width: 35%;
+    margin: 0 auto;
+}
+.pilt{
+    width: 500px;
+    margin-top: -125px;
+    margin-left: 6rem;
+        border-radius: 50%;
+}
+.footer{
+    text-align: center;
+}
+.link{
+    color: black;
+    border: 3px solid black;
+}
+.tagasiside{
+    color: black;
+}
